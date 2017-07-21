@@ -1,0 +1,20 @@
+<resources>
+    <!--         view size         -->
+    <dimen name="tool_bar_height">48dp</dimen>
+    <dimen name="bottom_bar_height">48dp</dimen>
+    <dimen name="icon">24dp</dimen>
+    <dimen name="icon_small">20dp</dimen>
+    <dimen name="left_margin">16dp</dimen>
+    <dimen name="icon_click">48dp</dimen>
+    <dimen name="login_textview_high">56dp</dimen>
+    <dimen name="login_button_high">42dp</dimen>
+
+    <!--         text size         -->
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text">14sp</dimen>
+    <dimen name="title_small">16sp</dimen>
+    <dimen name="appbar">20sp </dimen>
+    <dimen name="title">24sp</dimen>
+
+
+</resources>

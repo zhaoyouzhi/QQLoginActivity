@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QQLoginActivity</string>
+
+    <!-- LoginActivity-->
+    <string name="Username">用户名</string>
+    <string name="Password">密码</string>
+    <string name="login">登 录</string>
+    <string name="logining">登录中…</string>
+
+</resources>

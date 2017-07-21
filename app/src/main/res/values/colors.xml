@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="allBlack">#000000</color>
+    <color name="allWhite">#ffffff</color>
+    <color name="divider">#1F000000</color>
+    <color name="hintText_black">#42000000</color>
+    <color name="disable_black">#42000000</color>
+    <color name="secondaryText_black">#8A000000</color>
+    <color name="text_black">#DE000000</color>
+
+    <color name="hintText_white">#42ffffff</color>
+    <color name="disable_white">#42ffffff</color>
+    <color name="secondaryText_white">#8Affffff</color>
+    <color name="text_white">#DEffffff</color>
+
+    <color name="activeIconBlack">#8A000000</color>
+    <color name="inactiveIconBlack">#42000000</color>
+    <color name="activeIconWhite">#ffffff</color>
+    <color name="inactiveIconWhite">#4Dffffff</color>
+    <color name="loginBlue">#dd20b7f2</color>
+    <color name="loginBlue_select">#dd2399c9</color>
+
+    <color name="dialog_bg">#8f000000</color>
+    <color name="window_bg">#2f2f2f</color>
+</resources>

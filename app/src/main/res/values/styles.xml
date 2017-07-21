@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 隐藏状态栏 -->
+        <item name="android:windowFullscreen">true</item>
+        <!-- 隐藏标题栏 -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="login_editText">
+        <item name="android:color">@color/allWhite</item>
+        <item name="android:textColor">@color/allWhite</item>
+        <item name="android:background">@null</item>
+        <item name="android:drawableBottom">@drawable/login_edittext_bottom</item>
+        <item name="android:textCursorDrawable">@drawable/editext_cursor</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:textColorHint">@color/text_white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+</resources>
